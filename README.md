@@ -1,1 +1,1 @@
-# Simplicity.IO
+# Simplicity
